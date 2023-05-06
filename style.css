@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: linear-gradient(#070099, #0089ff, #00e5ff);
+    color: white;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+z-index: 99999;
+}
+h1{
+    font-family: 'Bruno Ace SC', cursive;
+}
+h2{
+    font-family: 'Comfortaa', cursive;
+}
